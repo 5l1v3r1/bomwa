@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
-# Creator :  ./FUKUR0-3XP
-# Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
-# Thanks To All Member Python Tutorial
+# Creator :  ./FAHMIAPZ
+# Team : NOLEP:(
+# Thanks To Allah
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
 from requests.exceptions import ConnectionError
